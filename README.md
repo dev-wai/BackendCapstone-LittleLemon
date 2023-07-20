@@ -1,4 +1,4 @@
-# Lemon Web Application - Django Backend Developer Specialization
+# Lemon Web Application - META Backend Developer Specialization
 
 ![Lemon Web Application](restaurant/static/img/logo.png)
 
