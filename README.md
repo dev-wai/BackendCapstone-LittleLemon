@@ -1,6 +1,6 @@
 # Lemon Web Application - Django Backend Developer Specialization
 
-![Lemon Web Application](lemon_web_app_screenshot.png)
+![Lemon Web Application](restaurant/static/img/logo.png)
 
 ## Description
 
